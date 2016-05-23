@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         setSupportActionBar(toolbar);
         Firebase.setAndroidContext(this);
 
-        mFirebaseRef = new Firebase("https://privey.firebaseio.com");
+        mFirebaseRef = new Firebase("**********");
         mEditText = (EditText) this.findViewById(R.id.message_text);
 
 
