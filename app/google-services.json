@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "415881744729",
+    "firebase_url": "https://privey.firebaseio.com",
+    "project_id": "project-6298723511573947639",
+    "storage_bucket": "project-6298723511573947639.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415881744729:android:c3b4e453167eded9",
+        "android_client_info": {
+          "package_name": "priveyapp.com.privey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415881744729-ljihj4pr2v3cnd5ts3st68jq1k18lpeq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "priveyapp.com.privey",
+            "certificate_hash": "9294A1F69D6B241BBA2AD3AE9AAA3628CB1E35D8"
+          }
+        },
+        {
+          "client_id": "415881744729-88kktc2oaqjck5kag8ffp9neisoakqk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIGjFYX62xGhiFph4qyJCGz_J3iQ1oXfM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415881744729-88kktc2oaqjck5kag8ffp9neisoakqk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
